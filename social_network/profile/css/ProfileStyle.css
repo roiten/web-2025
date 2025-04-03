@@ -1,0 +1,47 @@
+* {
+    font-family: "Golos UI";
+    color: #222222;
+}
+
+.nav-buttons button {
+    border: 0px;
+    background-color: white;
+    border-radius: 10px;
+    display: block; 
+}
+
+.heading {
+   font-size: 32px;
+   font-weight: 500; 
+   margin-top: 0px;
+   margin-bottom: 10px;
+   letter-spacing: -0.25px;
+}
+
+.aboutme-posts-amount {
+    background-color: rgba(242, 243, 245, 1);
+    border-radius: 6px;
+    width: 101px;
+    height: 30px;
+    margin-top: 0;
+    margin-bottom: 42px;
+}
+
+.aboutme-profile-photo {
+    width: 123px;
+    height: 123px;
+    margin-bottom: 20px;
+}
+
+.aboutme-status {
+    margin-top: 0px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.aboutme-content-photo {
+    display: inline-block;
+    margin-bottom: 2.48px;
+    margin-right: 2.48px
+}

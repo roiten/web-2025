@@ -1,0 +1,57 @@
+* {
+    font-family: "Golos UI";
+}
+
+.heading {
+    font-size: 96px;
+    color: #222222;
+}
+
+.intro-photo {
+    height: 462px;
+    margin-bottom: 50px;
+}
+
+form {
+    width: 362px;
+    font-size: 15px;    
+}
+
+input {
+    background-color: #F2F3F5;
+    /* padding: 13px 12px 13px 12px; */
+    border-radius: 10px;
+    border: 0px;
+    width: 362px;
+    height: 44px;
+}
+label {
+    margin-bottom: 5px;
+}
+
+.email-input {
+    margin-bottom: 5px;
+}
+
+.email-description {
+    font-size: 13px;
+    color: #808080;
+    margin-bottom: 16px;
+}
+
+.password-input {
+    margin-bottom: 32px;
+}
+
+.continue-button {
+    background-color: #222222;
+    color: #FFFFFF;
+    font-size: 16px; 
+    height: 48px;
+    width: 362px;
+}
+
+.button input:hover {
+    background-color: #444444; 
+}
+

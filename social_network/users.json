@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Vanya_Denisov",
+            "user-icon": "images/sqdenisov.png"
+        },
+        {
+            "id": 2,
+            "name": "Lisa_Demina",
+            "user-icon": "images/sqdemina.png"           
+        }
+    ]
+}

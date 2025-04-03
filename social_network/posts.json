@@ -1,0 +1,34 @@
+{
+    "posts": [
+      {
+        "user": {
+          "id": 1,
+          "name": "Ваня Денисов",
+          "user-icon": "/home/images/sqdenisov.png"
+        },
+
+        "publication": {
+            "post-id": 1,
+            "post-description": "Так красиво сегодня на улице! Настоящая зима)) Вспоминается Бродский: Поздно ночью, в уснувшей долине, на самом дне, в гор",
+            "img-source": "/home/images/photo-denisov.png",
+            "likes": 378,
+            "publication-time": 1743518474
+        }
+      },
+
+      {
+        "user": {
+          "id": 2,
+          "name": "Лиза Дёмина",
+          "user-icon": "/home/images/sqdemina.png"
+        },
+        "publication": {
+            "post-id": 1,
+            "post-description": "Весна — это время пробуждения природы, когда земля оживает после долгого зимнего сна. Весенний ветер нежно колышет первые зелёны",
+            "img-source": "/home/images/photo-demina.jpg",
+            "likes": 176,
+            "publication-time": 1743597634
+        }
+      }
+    ]
+  }
